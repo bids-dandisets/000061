@@ -1,5 +1,5 @@
-participant_id	species	sex
-sub-Rat08	Rattus norvegicus domestica - Long Evans	Male
-sub-Rat09	Rattus norvegicus domestica - Long Evans	Male
-sub-Rat10	Rattus norvegicus domestica - Long Evans	Male
-sub-Rat11	Rattus norvegicus domestica - Long Evans	Male
+participant_id	original_participant_id	species	sex
+sub-Rat08	sub-Rat08	Rattus norvegicus domestica - Long Evans	Male
+sub-Rat09	sub-Rat09	Rattus norvegicus domestica - Long Evans	Male
+sub-Rat10	sub-Rat10	Rattus norvegicus domestica - Long Evans	Male
+sub-Rat11	sub-Rat11	Rattus norvegicus domestica - Long Evans	Male
